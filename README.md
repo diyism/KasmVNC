@@ -1,3 +1,7 @@
+    ref:   https://github.com/diyism/magnus_for_bt300/blob/master/kasm.sh
+
+=================================================
+
 # KasmVNC - Linux Web Remote Desktop
 
 <a href="https://kasmweb.com"><img src="https://5856039.fs1.hubspotusercontent-na1.net/hubfs/5856039/kasmvnc_logo.png" width="300"><a/>
